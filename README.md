@@ -8,7 +8,7 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/vikas_044) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://www.leetcode.com/Koladiya_Vikas)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23187FCA.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/vikas_koladiya)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/vikas_koladoia_005)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/vikas__koladoia_005)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:koladiyavikas2005@gmail.com)
 
 ## 🖨 Tech Stack
