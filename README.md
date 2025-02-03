@@ -34,9 +34,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
 
-## 📞 Contact Me
-📧 *koladiyavikas2005@gmail.com*
-
 ## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VikasKoladiya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=VikasKoladiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
